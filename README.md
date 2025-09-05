@@ -12,7 +12,7 @@ Please note that we will only be able to provide limited support, but feel free 
 
 Designed for education purposes. Please do not distribute without permission. Write at organizers@m2lschool.org if you have any question.
 
-You are welcome to reuse this material in other courses or schools, but please reach out to organizers@m2lschool.org if you plan to do so. We would appreciate it if you could acknowledge that the materials come from M2L 20202 and give credits to the authors. Also please keep a link in your materials to the original repo, in case updates occur.
+You are welcome to reuse this material in other courses or schools, but please reach out to organizers@m2lschool.org if you plan to do so. We would appreciate it if you could acknowledge that the materials come from M2L 2022 and give credits to the authors. Also please keep a link in your materials to the original repo, in case updates occur.
 
 MIT License
 
