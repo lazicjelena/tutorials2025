@@ -30,19 +30,19 @@
 #### Theory recap
 
 Notebook: [![Open In 
-Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/M2Lschool/tutorials2025/blob/master/2_vlm/vlm_tutorial_overview.ipynb)
+Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/M2Lschool/tutorials2025/blob/master/2_vlm/vlm_tutorial_overview.ipynb)
 
 #### Part 1:
 Tutorial: [![Open In 
-Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/M2Lschool/tutorials2025/blob/master/2_vlm/vlm_tutorial_practical_1_students.ipynb)
+Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/M2Lschool/tutorials2025/blob/master/2_vlm/vlm_tutorial_practical_1_students.ipynb)
 
 #### Part 2:
 Tutorial: [![Open In 
-Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/M2Lschool/tutorials2025/blob/master/2_vlm/vlm_tutorial_practical_2_students.ipynb)
+Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/M2Lschool/tutorials2025/blob/master/2_vlm/vlm_tutorial_practical_2_students.ipynb)
 
 #### Part 3:
 Tutorial: [![Open In 
-Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/M2Lschool/tutorials2025/blob/master/2_vlm/vlm_tutorial_practical_3_students.ipynb)
+Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/M2Lschool/tutorials2025/blob/master/2_vlm/vlm_tutorial_practical_3_students.ipynb)
 
 ---
 
