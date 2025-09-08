@@ -31,6 +31,3 @@ Colab](https://colab.research.google.com/assets/colab-badge.svg)](part2_EXERCISE
 #### Part III: 
 Tutorial: [![Open In 
 Colab](https://colab.research.google.com/assets/colab-badge.svg)](part3_EXERCISES.ipynb)
-
-
----
